@@ -1,0 +1,7 @@
+{
+  "name": "Ultra Chat",
+  "description": "An enterprise-grade AI SaaS platform powered by Azizbek Mavlonov AI, featuring real-time chat, analytics dashboard, and seamless multi-device support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
